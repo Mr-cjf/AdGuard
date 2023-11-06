@@ -4,3 +4,7 @@
 ! Expires: 10 days
 ! 使用方法：将 https://gist.githubusercontent.com/imba-tjd/2c9817233ac6798d4f2bfe057f781ca5/raw/IMBALIST.TXT 添加到uBO的规则列表中
 
+# 抖音ask广告推广拦截
+neptune-platform.zijieapi.com
+
+#
